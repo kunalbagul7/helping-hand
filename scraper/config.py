@@ -24,14 +24,14 @@ RESUME_PATH     = r"/data/Kunal_Bagul.pdf"
 MAX_PAGES = 2
 PROFILE = {
     # Name
-    "first_name":       "Dhiraj",
-    "last_name":        "More",
-    "full_name":        "Dhiraj Sitaram More",
+    "first_name":       "Kunal",
+    "last_name":        "Bagul",
+    "full_name":        "Kunal Bharat Bagul",
 
     # Contact
-    "email":            "moredhiraj5234@gmail.com",
-    "phone":            "9767967412",
-    "whatsapp":         "9767967412",
+    "email":            "kunalbagul2211@gmail.com",
+    "phone":            "6355456969",
+    "whatsapp":         "6355456969",
     "phone_country":    "India (+91)",
 
     # Location
@@ -42,8 +42,8 @@ PROFILE = {
     "zipcode":          "425001",
 
     # Online profiles
-    "linkedin_url":     "www.linkedin.com/in/dhiraj-more-188881257",
-    "github_url":       "https://github.com/dhiraj",
+    "linkedin_url":     "https://www.linkedin.com/in/kunal-bagul-a6292b2b4/",
+    "github_url":       "https://github.com/kunalbagul7",
 
     # Job details
     "job_position":     "Python Developer",
